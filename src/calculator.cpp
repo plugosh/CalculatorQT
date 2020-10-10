@@ -7,7 +7,7 @@ Calculator::Calculator(QWidget *parent) :
     ui(new Ui::Calculator)
 {
     ui->setupUi(this);  
-
+//SADFSADFASDFSA
     ui->det2->setText(QString::number(0));
     ui->Display->setText(QString::number(0));
     ui->shiftWidget->setVisible(false);
